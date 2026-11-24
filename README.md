@@ -4,6 +4,17 @@
 
 컴퓨터공학을 전공하고 서비스 기획부터 데이터 및 시스템 설계, 개발, 배포와 운영 검증까지 경험했습니다. 제조 AI 프로젝트에서는 현업 멘토의 피드백을 바탕으로 요구사항을 수정하고, 팀의 개발 범위를 조율하면서 핵심 기능을 직접 구현했습니다. 사용자와 운영자가 겪는 문제를 구체적인 기능과 데이터 흐름으로 연결하는 일에 관심이 있습니다.
 
+## 대표 자료 바로 보기
+
+| 분야 | 공개 자료 |
+|---|---|
+| 제조 AI / 제품 기획 | [AITCH 요구사항 변경 및 제품 기획](https://github.com/ASAC-DE2-AItch/aitch-public/tree/main/docs/product-planning) |
+| 클라우드 / 운영 | [Revenue Ops 배포 검증](https://github.com/Luriar/small-merchant-revenue-ops-backbone/blob/main/docs/m6_live_smoke_result_kr.md) |
+| 데이터 엔지니어링 | [OPIK 구현 및 운영 현황](https://github.com/Luriar/opik/blob/main/docs/OPIK_PHASE2_OPERATIONS_STATUS.md) |
+| 업무 자동화 | [DinoStudio 공개 데모 검증](https://github.com/Luriar/dinostudio-internship-portfolio/blob/main/docs/INTEGRATION.md) |
+| AI 서비스 / 풀스택 | [도서 추천 실제 구현 화면](https://github.com/Luriar/AI-Powered-Book-Recommendation-System/blob/main/screenshots/recommendation.png) |
+| 개인 인프라 | [ChatGPT Connector 구성 및 검증 기록](https://github.com/Luriar/chatgpt-connector-public/blob/main/docs/V2.md) |
+
 ## 주요 프로젝트
 
 | 프로젝트 | 구분 | 주요 내용 및 본인 역할 |
